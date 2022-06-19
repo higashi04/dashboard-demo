@@ -1,0 +1,10 @@
+C:\Users\higas\Desktop\coding\Dashboard\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\higas\Desktop\coding\Dashboard\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\higas\Desktop\coding\Dashboard\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\higas\Desktop\coding\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.AssemblyReference.cache
+C:\Users\higas\Desktop\coding\Dashboard\Dashboard\obj\Debug\Dashboard.Form1.resources
+C:\Users\higas\Desktop\coding\Dashboard\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\higas\Desktop\coding\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Users\higas\Desktop\coding\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\higas\Desktop\coding\Dashboard\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\higas\Desktop\coding\Dashboard\Dashboard\obj\Debug\Dashboard.pdb
